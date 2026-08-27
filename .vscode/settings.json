@@ -1,0 +1,8 @@
+{
+  "python.terminal.activateEnvironment": true,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 4,
+  "files.trimTrailingWhitespace": true,
+  "files.eol": "\n",
+  "editor.rulers": [88]
+}
